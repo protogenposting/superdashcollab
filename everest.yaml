@@ -1,0 +1,10 @@
+- DLL: bin/superdashcollab.dll
+  Name: superdashcollab
+  Version: 0.1.0
+  Dependencies:
+    - Name: CollabUtils2
+      Version: 1.10.2
+    - Name: Everest
+      Version: 1.3471.0
+    - Name: ExtendedVariantMode
+      Version: 0.29.2
