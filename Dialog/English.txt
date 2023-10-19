@@ -19,9 +19,9 @@ superdashcollab_dashing=Super Dash Collab
 
 superdashcollab_dashing_1_lobby=Lobby
 
-superdashcollab_dashing_simple=Simple Flight
+superdashcollab_dashing_levels_simple=Simple Flight
 
-hot_man_embrace_the_jank_3_lab=The portal
+superdashcollab_dashing_levels_grandhotel=The Grand Hotel
 
 hot_man_embrace_the_jank_4_finale=Finale.
 
