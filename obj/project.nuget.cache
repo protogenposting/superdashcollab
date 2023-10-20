@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "8EullcMpg7cJsBfSMchKgN2n8JVkn0v9Vm7Y2F83FaGcFkJng76ZP20FTa9ILZVEXisaVYkqiFuDfX7ZxkSBbg==",
+  "success": true,
+  "projectFilePath": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Celeste\\Mods\\superdashcollab\\superdashcollab.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\carson\\.nuget\\packages\\mono.cecil\\0.11.4\\mono.cecil.0.11.4.nupkg.sha512",
+    "C:\\Users\\carson\\.nuget\\packages\\monomod.runtimedetour\\22.1.4.3\\monomod.runtimedetour.22.1.4.3.nupkg.sha512",
+    "C:\\Users\\carson\\.nuget\\packages\\monomod.utils\\22.1.4.3\\monomod.utils.22.1.4.3.nupkg.sha512"
+  ],
+  "logs": []
+}

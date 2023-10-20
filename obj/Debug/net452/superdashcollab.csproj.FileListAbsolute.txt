@@ -1,0 +1,9 @@
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\bin\Debug\net452\superdashcollab.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\bin\Debug\net452\superdashcollab.pdb
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.csproj.AssemblyReference.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.AssemblyInfo.cs
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.dll
+C:\Program Files (x86)\Steam\steamapps\common\Celeste\Mods\superdashcollab\obj\Debug\net452\superdashcollab.pdb
