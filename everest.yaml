@@ -6,6 +6,8 @@
       Version: 1.10.2
     - Name: CommunalHelper
       Version: 1.18.4
+    - Name: DJMapHelper
+      Version: 1.13.4
     - Name: Everest
       Version: 1.3471.0
     - Name: ExtendedVariantMode
