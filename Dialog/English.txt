@@ -23,6 +23,10 @@ superdashcollab_dashing_levels_simple=Simple Flight
 
 superdashcollab_dashing_levels_grandhotel=The Grand Hotel
 
+superdashcollab_dashing_levels_reztime=Rez's Purgatory
+
+superdashcollab_dashing_levels_waving=Sakupen Heck
+
 hot_man_embrace_the_jank_4_finale=Finale.
 
 hot_man_embrace_the_jank_5_byebye=Bye Bye There!

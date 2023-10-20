@@ -4,7 +4,17 @@
   Dependencies:
     - Name: CollabUtils2
       Version: 1.10.2
+    - Name: CommunalHelper
+      Version: 1.18.4
     - Name: Everest
       Version: 1.3471.0
     - Name: ExtendedVariantMode
       Version: 0.29.2
+    - Name: GravityHelper
+      Version: 1.1.47
+    - Name: JungleHelper
+      Version: 1.2.0
+    - Name: MaxHelpingHand
+      Version: 1.28.3
+    - Name: SorbetHelper
+      Version: 1.1.1
