@@ -27,6 +27,8 @@ superdashcollab_dashing_levels_reztime=Rez's Purgatory
 
 superdashcollab_dashing_levels_waving=Sakupen Heck
 
+superdashcollab_dashing_levels_nodash=Don't Dash.
+
 hot_man_embrace_the_jank_4_finale=Finale.
 
 hot_man_embrace_the_jank_5_byebye=Bye Bye There!
