@@ -19,7 +19,7 @@ superdashcollab_dashing=Super Dash Collab
 
 superdashcollab_dashing_1_lobby=Lobby
 
-superdashcollab_dashing_levels_simple=Simple Flight
+superdashcollab_dashing_levels_simple=Tower of Pain
 
 superdashcollab_dashing_levels_grandhotel=The Grand Hotel
 
