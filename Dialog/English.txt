@@ -19,6 +19,8 @@ superdashcollab_dashing=Super Dash Collab
 
 superdashcollab_dashing_1_lobby=Lobby
 
+superdashcollab_dashing_levels_gym=Super Dash Gym
+
 superdashcollab_dashing_levels_simple=Tower of Pain
 
 superdashcollab_dashing_levels_grandhotel=The Grand Hotel
@@ -91,6 +93,37 @@ CUSTOM_THINGY_THINGDIALOGDADBOT3=				{# color}{~}the thing that it will say but 
 
 DADBODDIALOGDADBOD=				{# DADB0D}DADBOD {#}
 
+CurvedUltra=
+[THEO right normal]
+Tech #1:
+[THEO right normal]
+Curved ultra
+[THEO right normal]
+To perform a curved ultra, start by performing an extended hyper, then perform a down-diagonal dash, but curve it to completely horizontal at the end and jump off a surface.
+[THEO right normal]
+this will give a MASSIVE speed boost
+[THEO right normal]
+if done incorrectly, you will instead perform a super or hyper, which gives much less speed.
+[THEO right normal]
+try it out in this short challenge:
+
+Ultras=
+[THEO right normal]
+Tech #2:
+[THEO right normal]
+Ultras
+[THEO right normal]
+I cant explain this shit just go play the sj expert lobby gym instead lmao
+
+end=
+[THEO right normal]
+uh thats about it
+[THEO right normal]
+hm
+[THEO right normal]
+here have this heart
+[THEO right normal]
+uwu
 
 introspeakz=
 [MADELINE left normal]
