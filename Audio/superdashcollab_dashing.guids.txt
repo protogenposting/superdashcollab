@@ -821,8 +821,11 @@
 {1096c6bd-1bd8-4364-84d3-c370b6a0c0e7} event:/hot man_embrace the jank_music6
 {9bb8519f-6b94-4e9c-bc5e-eb81e6331f2f} event:/hot man_embrace the jank_music7
 {9f56524a-6621-4373-8537-d2bcb11a5af4} event:/superdashcollab_dashing_gd
-{2eafeae5-0536-4955-8e5e-3ef0fe1ecfe7} event:/superdashcollab_dashing_rez
+{a33578d7-6d7d-4d45-9aad-724063fe2293} event:/superdashcollab_dashing_nodash
 {e2c46010-c3fe-4cc4-b8c5-7c2efbfe17b5} event:/superdashcollab_dashing_nova
+{584f461e-75e3-4144-a81b-d207315d9fd3} event:/superdashcollab_dashing_poop
+{2eafeae5-0536-4955-8e5e-3ef0fe1ecfe7} event:/superdashcollab_dashing_rez
+{dae1531a-7dff-4d5e-a3f5-af3d6cc9af98} event:/superdashcollab_dashing_gym
 {c7aad72f-9796-42d3-980b-d093fd765716} bus:/
 {aac396d1-a63f-418a-810a-5d5a59fb2c43} bus:/gameplay_sfx
 {2677ced7-94e4-44e2-9f5a-74aaeda5ab63} bus:/gameplay_sfx/ambience
