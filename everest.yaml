@@ -22,6 +22,10 @@
       Version: 1.28.3
     - Name: MoreDasheline
       Version: 1.7.0
+    - Name: NerdHelper
+      Version: 1.4.0
+    - Name: ShroomHelper
+      Version: 1.2.7
     - Name: SorbetHelper
       Version: 1.1.1
     - Name: VivHelper

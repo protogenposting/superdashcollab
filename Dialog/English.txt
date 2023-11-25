@@ -33,6 +33,8 @@ superdashcollab_dashing_levels_nodash=Don't Dash.
 
 superdashcollab_dashing_levels_poo=Feces Type Gameplay
 
+superdashcollab_dashing_levels_thelonghaul=Long Haul
+
 hot_man_embrace_the_jank_4_finale=Finale.
 
 hot_man_embrace_the_jank_5_byebye=Bye Bye There!
