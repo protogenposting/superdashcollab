@@ -35,7 +35,7 @@ superdashcollab_dashing_levels_poo=Feces Type Gameplay
 
 superdashcollab_dashing_levels_thelonghaul=Long Haul
 
-superdashcollab_dashing_levels_superjump=No Jump Zone
+superdashcollab_dashing_levels_superjump=Lo Tek
 
 hot_man_embrace_the_jank_4_finale=Finale.
 
