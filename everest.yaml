@@ -94,70 +94,12 @@
       Version: 1.13.3
     - Name: VivHelper
       Version: 1.13.2
-<<<<<<< Updated upstream
     - Name: VortexHelper
       Version: 1.2.12
     - Name: XaphanHelper
       Version: 1.0.58
     - Name: YetAnotherHelper
       Version: 1.2.4
-=======
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
     - Name: VivHelper
       Version: 1.13.3
     - Name: VortexHelper
@@ -170,16 +112,9 @@
       Version: 1.2.12
     - Name: VortexHelper
       Version: 1.2.12
-    - Name: WinterCollab2021
-      Version: 1.3.5
-    - Name: WinterCollab2021
-      Version: 1.3.5
-    - Name: WinterCollab2021Audio
-      Version: 1.3.0
     - Name: XaphanHelper
       Version: 1.0.58
     - Name: YetAnotherHelper
       Version: 1.2.4
     - Name: memorialHelper
       Version: 1.0.4
->>>>>>> Stashed changes
