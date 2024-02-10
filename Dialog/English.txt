@@ -21,6 +21,8 @@ superdashcollab_dashing_1_lobby=Lobby
 
 superdashcollab_dashing_levels_gym=Super Dash Gym
 
+superdashcollab_dashing_levels_heartside=The Heart Side
+
 superdashcollab_dashing_levels_simple=Tower of Pain
 
 superdashcollab_dashing_levels_grandhotel=The Grand Hotel
@@ -34,8 +36,6 @@ superdashcollab_dashing_levels_nodash=Don't Dash.
 superdashcollab_dashing_levels_poo=Feces Type Gameplay
 
 superdashcollab_dashing_levels_thelonghaul=Long Haul
-
-superdashcollab_dashing_levels_superjump=Lo Tek
 
 hot_man_embrace_the_jank_4_finale=Finale.
 
@@ -96,6 +96,9 @@ CUSTOM_THINGY_THINGDIALOGDADBOT2=				{~}the thing that it will say but wavy exam
 CUSTOM_THINGY_THINGDIALOGDADBOT3=				{# color}{~}the thing that it will say but wavy and also colored example {/~}{#}
 
 DADBODDIALOGDADBOD=				{# DADB0D}DADBOD {#}
+
+HeartsideCredits=
+credits wip. will be updated later.
 
 CurvedUltra=
 [THEO right normal]
