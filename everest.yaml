@@ -1,5 +1,5 @@
 - DLL: bin/superdashcollab.dll
-  Name: superdashcollab
+  Name: sometimes super dash other times regular dash collab
   Version: 0.1.0
   Dependencies:
     - Name: AdventureHelper
@@ -28,6 +28,8 @@
       Version: 1.7.0
     - Name: NerdHelper
       Version: 1.4.0
+    - Name: OutbackHelper
+      Version: 1.7.3
     - Name: ShroomHelper
       Version: 1.2.7
     - Name: SorbetHelper
@@ -51,69 +53,69 @@
     - Name: VivHelper
       Version: 1.13.3
     - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VivHelper
       Version: 1.13.2
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
+    - Name: VivHelper
+      Version: 1.13.3
     - Name: VortexHelper
       Version: 1.2.12
+    - Name: VortexHelper
+      Version: 1.2.12
+    - Name: VortexHelper
+      Version: 1.2.12
+    - Name: VortexHelper
+      Version: 1.2.12
+    - Name: VortexHelper
+      Version: 1.2.12
+    - Name: VortexHelper
+      Version: 1.2.12
+    - Name: XaphanHelper
+      Version: 1.0.58
     - Name: XaphanHelper
       Version: 1.0.58
     - Name: YetAnotherHelper
       Version: 1.2.4
-    - Name: VivHelper
-      Version: 1.13.3
-    - Name: VortexHelper
-      Version: 1.2.12
-    - Name: VortexHelper
-      Version: 1.2.12
-    - Name: VortexHelper
-      Version: 1.2.12
-    - Name: VortexHelper
-      Version: 1.2.12
-    - Name: VortexHelper
-      Version: 1.2.12
-    - Name: XaphanHelper
-      Version: 1.0.58
     - Name: YetAnotherHelper
       Version: 1.2.4
     - Name: memorialHelper
